@@ -1,0 +1,4 @@
+=== STRUK RIWAYAT TRANSAKSI - Grand Aston ===
+1. ACT-01 (Gilang) | OBJ-A (Suite Room) | Jumlah: 3 | Total: Rp4,500,000
+2. ACT-02 (Hani) | OBJ-C (Standard Room) | Jumlah: 2 | Total: Rp500,000
+3. ACT-02 (Hani) | OBJ-A (Suite Room) | Jumlah: 1 | Total: Rp1,500,000
