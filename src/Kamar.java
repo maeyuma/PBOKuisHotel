@@ -6,7 +6,7 @@ public abstract class Kamar implements Serializable {
     private String kode;
     private String nama;
     private int kuota;
-
+    
     public Kamar(String kode, String nama, int kuota) {
         this.kode = kode;
         this.nama = nama;
